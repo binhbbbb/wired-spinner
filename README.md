@@ -1,4 +1,8 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/wiredjs/wired-spinner)
+  
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/wiredjswired-spinner)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/wiredjswired-spinner.svg)](https://vaadin.com/directory/component/wiredjswired-spinner)
+
 
 # \<wired-spinner\>
 
